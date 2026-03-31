@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi, I'm Arjun
 
-<!--
-**arjunvijayanand47/arjunvijayanand47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst
+🎓 B.Tech IT Student
+🐍 Python | 📈 Data | 📉 Insights
 
-Here are some ideas to get you started:
+🚀 About Me
+📊 Passionate about turning data into meaningful insights
+🐍 Skilled in Python for data analysis
+📈 Learning data visualization and statistical analysis
+🔍 Interested in real-world datasets and problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Skills
+Languages: Python
+Libraries: Pandas, NumPy
+Tools: Excel, Power BI 
+Concepts: Data Cleaning, Data Visualization, Basic Statistics
+
+📊 What I'm Learning
+Advanced Data Analysis
+SQL for Data Handling
+Power BI & Dashboard Design
+Machine Learning Basics
+
+📫 Connect with Me
+email:arjunvijayanand47@gmail.com
+LinkedIn: https://linkedin.com/in/your-profile
+
+⚡ Fun Fact
+I enjoy finding patterns in data and turning numbers into stories 📖
