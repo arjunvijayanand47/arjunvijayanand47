@@ -24,7 +24,7 @@ Machine Learning Basics
 
 📫 Connect with Me
 email:arjunvijayanand47@gmail.com
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: www.linkedin.com/in/arjunvijayanand47
 
 ⚡ Fun Fact
 I enjoy finding patterns in data and turning numbers into stories 📖
